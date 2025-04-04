@@ -1,3 +1,6 @@
+# Ignorar el archivo .env que contiene las claves API
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
