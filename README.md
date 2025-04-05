@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Indicadores de Calidad de Datos
 
 Este proyecto tiene como objetivo obtener datos de tres fuentes públicas: noticias, temperatura y tipo de cambio, y analizar la calidad de los datos obtenidos. Los datos se extraen a través de APIs públicas, y se validan en base a indicadores de calidad como la **completitud**, **exactitud**, **consistencia** y **actualización**.
@@ -68,3 +69,6 @@ Este proyecto está licenciado bajo la Licencia UPC.
 ## Notas
 
 - **No subas tu archivo `.env` a GitHub**. Asegúrate de que esté incluido en el archivo `.gitignore`.
+=======
+# TA1_GD
+>>>>>>> 8b1b92de9409451008700100ff94bec928e2c310
